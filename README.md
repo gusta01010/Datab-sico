@@ -6,5 +6,6 @@ Databasic é um simulador de transações e gerenciamento de dados bancários em
 Informações extras
 ---
 ```
-Em breve.
+Peso do software: 6.97 MB
+Compilado com pyinstaller o arquivo main.py
 ```
