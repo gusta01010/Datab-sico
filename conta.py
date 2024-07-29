@@ -35,7 +35,7 @@ class Conta:
                         #atualiza o banco de dados
                         self.saldo = (list(list(database.values())[i[0]].values())[0])
                         #atualiza o saldo visivel
-                        print(database)
+                        #print(database)
                             #Self.username e self.password intactos, altera apenas o valor do saldo do usuário, pegando o valor do saldo dele e somando + self.depositar
     
     def depositar(self):
